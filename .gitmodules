@@ -1,3 +1,6 @@
 [submodule "CPiscineShell00"]
 	path = CPiscineShell00
 	url = https://github.com/ketenor/CPiscineShell00.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/ketenor/libft.git
